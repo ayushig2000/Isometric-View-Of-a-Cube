@@ -2,10 +2,10 @@ import pyautogui
 import math
 import time
 
-time.sleep(6)
+time.sleep(6) #this is a time it takes to start
 
 
-a=210
+a=210 #side length of a cube
 
 
 x=a*math.cos(math.pi/6)
