@@ -22,3 +22,4 @@ pyautogui.dragRel(x, +y, duration = 1)
 pyautogui.dragRel(x, -y, duration = 1)
 pyautogui.dragRel(-x, +y, duration = 1)
 pyautogui.dragRel(0, +a, duration = 1)
+
