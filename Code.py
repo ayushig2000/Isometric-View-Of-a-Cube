@@ -1,6 +1,7 @@
 import pyautogui
 import math
 import time
+import pandas as pd
 
 time.sleep(6) #this is a time it takes to start
 
